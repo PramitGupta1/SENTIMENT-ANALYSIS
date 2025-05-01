@@ -118,3 +118,9 @@ Trained classification models that can predict the sentiment of new movie review
 
 These outputs provide valuable insights into how different ML models perform on a real-world NLP task and establish a framework for further improvements like hyperparameter tuning or using deep learning models.
 
+## Output
+
+![Image](https://github.com/user-attachments/assets/f378c32f-3831-4988-96f4-0675c5d683fb)
+![Image](https://github.com/user-attachments/assets/857a4146-8a66-472a-bc20-597c8d438135)
+![Image](https://github.com/user-attachments/assets/8f1221d4-e603-4310-a198-206d1f5ca5a4)
+
